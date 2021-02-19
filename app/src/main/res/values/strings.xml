@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assignment1</string>
+    <string name="app_name">Assignment 1</string>
     <string name="title">ASSIGNMENT # 1-2</string>
     <string name="user_wins">USER WIN!</string>
     <string name="computer_wins">COMPUTER WIN!</string>
